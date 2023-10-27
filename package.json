@@ -1,0 +1,22 @@
+{
+  "name": "js-cardcard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "sass": "^1.69.5",
+    "vite": "^4.4.11",
+    "vue-cli-plugin-tailwind": "~3.0.0"
+  }
+}

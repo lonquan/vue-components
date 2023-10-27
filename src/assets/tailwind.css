@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+:root {
+    --ghost-accent-color: #215DEE;
+
+    --gradient-color-two: #B61CFF;
+}
